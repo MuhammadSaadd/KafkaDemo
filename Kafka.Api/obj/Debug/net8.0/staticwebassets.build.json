@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DiPEiBrVUQfDgNeXoC+W0SggCdjXb9zbebcZ6JYVb0I=",
+  "Source": "Kafka.Api",
+  "BasePath": "_content/Kafka.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
